@@ -58,3 +58,4 @@ pyshorteners
 faker
 pyfiglet
 MukeshAPI
+unidecode
