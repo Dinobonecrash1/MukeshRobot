@@ -2,8 +2,8 @@ import random
 
 from telegram import ChatAction, ParseMode
 
-from Exon import dispatcher
-from Exon.modules.disable import DisableAbleCommandHandler
+from MukeshRobot import dispatcher
+from MukeshRobot.modules.disable import DisableAbleCommandHandler
 
 GIF = (
     "https://telegra.ph/file/ef94f2f61aa4d9394ef23.mp4",
